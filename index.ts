@@ -1,4 +1,4 @@
-export const getObjectByPath = (obj: any, path: string): any => {
+const objectDeep = (obj: any, path: string): any => {
 
 	if(obj === null || obj === undefined || typeof obj === "undefined"){
 		return undefined;
@@ -25,3 +25,5 @@ export const getObjectByPath = (obj: any, path: string): any => {
 
     return item;
 };
+
+export default objectDeep;
