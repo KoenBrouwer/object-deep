@@ -1,5 +1,5 @@
 {
-  "name": "@koen/object-deep",
+  "name": "object-deep",
   "version": "1.0.0",
   "description": "A simple function that allows you to access an objects items by string.",
   "main": "GetObjectByPath.ts",
