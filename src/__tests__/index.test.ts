@@ -1,4 +1,4 @@
-import objectDeep from "./index";
+import { objectDeep } from "../index";
 
 const testObject = {
     some: {
