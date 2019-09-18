@@ -1,0 +1,20 @@
+{
+  "name": "@koen/object-deep",
+  "version": "1.0.0",
+  "description": "A simple function that allows you to access an objects items by string.",
+  "main": "GetObjectByPath.ts",
+  "scripts": {
+    "test": "react-scripts --testNamePettern=getObjectByPath"
+  },
+  "keywords": [],
+  "author": "Koen Brouwer",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:KoenBrouwer/object-deep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoenBrouwer/object-deep/issues"
+  },
+  "homepage": "https://github.com/KoenBrouwer/object-deep#readme"
+}
